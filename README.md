@@ -12,7 +12,9 @@
 <img src="https://img.shields.io/badge/VSCode-1f9df6?style=flat-square&logo=VSCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/phpStorm-000000?style=flat-square&logo=phpStorm&logoColor=white"/>
 
+<br>
+<br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gahaaa&show_icons=true&theme=yeblu)
 <br />
 <br />
