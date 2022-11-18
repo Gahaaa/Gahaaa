@@ -15,8 +15,12 @@
 <br>
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gahaaa&show_icons=true&theme=tokyonight)
+<a href="https://github.com/Gahaaa">
+  <img style="width:400px" src="https://github-readme-stats.vercel.app/api?username=Gahaaa&show_icons=true&theme=tokyonight" alt="Gahaaa's github stats" />
+</a>
+<a href="https://github.com/Gahaaa">
+  <img style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gahaaa&layout=compact&theme=tokyonight" alt="Gahaaa's github stats" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gahaaa&layout=compact&theme=tokyonight)
 <br />
 <br />
