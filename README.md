@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h2 style="color:#333">🦄 Technical Stack 🦄</h2>
+<h2 style="color:#333"> Technical Stack </h2>
 <br>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
