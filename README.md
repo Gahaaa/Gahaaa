@@ -10,8 +10,9 @@
 <img src="https://img.shields.io/badge/JQuery-f6861f?style=flat-square&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/phpStorm-000000?style=flat-square&logo=phpStorm&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-1f9df6?style=flat-square&logo=VSCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/phpStorm-000000?style=flat-square&logo=phpStorm&logoColor=white"/>
+
 
 <br>
 <br>
